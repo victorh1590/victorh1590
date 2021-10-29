@@ -1,3 +1,4 @@
+## 	:large_blue_diamond: Who am I:
 - 👋 Welcome to my profile, I’m Victor.
 - :computer: I started coding in 2014 with **C**.
 - :mortar_board: I joined college in 2018, i'm still trying to get my degree in Information Systems.
@@ -11,7 +12,7 @@
 </p>
 
 
-## 🧰 Languages and Tools:
+## :gear: Languages and Tools:
 <p align="center">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
