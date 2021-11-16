@@ -20,7 +20,7 @@
 </p><br>
 
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=victorh1590&theme=vue&show_icons=true&count_private=true&hide_border=true" alt="Victor's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorh1590&theme=vue&langs_count=6&layout=compact&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=victorh1590&theme=vue&show_icons=true&count_private=true&hide_border=true" alt="Victor's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorh1590&theme=vue&langs_count=6&layout=compact&hide_border=true?&hide=HTML,CSS" /> |
 | ------------- | ------------- |
 
 
