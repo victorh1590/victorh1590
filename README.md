@@ -2,7 +2,7 @@
 - 👋 Welcome to my profile, I’m Victor.
 - :computer: I started coding in 2014 with **C**.
 - :mortar_board: I started college in 2018, i'm still trying to get my degree in Information Systems.
-- :open_book: My focus is back-end. I’m currently studying **C#** and **Ruby**, databases, tests and architecture.
+- :open_book: My focus is back-end. I’m currently studying **C#**, databases, tests and architecture.
 - 📫 More about me:
 
 <p>
