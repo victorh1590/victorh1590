@@ -1,7 +1,7 @@
 ## 	:large_blue_diamond: Who am I:
 - 👋 Welcome to my profile, I’m Victor.
 - :computer: I started coding in 2014 with **C**.
-- :mortar_board: I started college (Information Systems) in 2018 and graduated in 2023.
+- :mortar_board: I join college (Information Systems) in 2018 and graduated in 2023.
 - :open_book: I'm mainly interested on **back end development**, databases, tests and architecture.
 - :office: I'm currently working as a Java/Kotlin developer, even though i'm still a **C#** dev at heart.
 - :boom: I recently started studying **React** to power-up my front end skills.
