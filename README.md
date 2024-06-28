@@ -3,7 +3,7 @@
 - :computer: I started coding in 2014 with **C**.
 - :mortar_board: I joined college (Information Systems) in 2018 and graduated in 2023.
 - :open_book: I'm mainly interested on **back end development**, databases, tests and architecture.
-- :office: I'm currently working as a Java/Kotlin developer, even though i'm still a **C#** dev at heart.
+- :office: Currently working as a Java/Kotlin developer, even though i'm still a **C#** dev at heart.
 - :boom: I recently started studying **React** to power-up my front end skills.
 - :penguin:
 - 📫 More about me:
